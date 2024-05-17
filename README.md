@@ -25,7 +25,7 @@ For managing the application state.
 #### CSS3:
 For styling the app and providing a responsive design.
 
-#### Contact
+#  Contact
 For any questions or feedback, please open an issue or contact us at medaminenasfy@gmail.com.
 
 
